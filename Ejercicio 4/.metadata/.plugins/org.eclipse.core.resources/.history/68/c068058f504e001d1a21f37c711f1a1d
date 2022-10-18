@@ -1,0 +1,8 @@
+package fo;
+
+public class Colectivo extends Motor {
+	private String patente,tarifa;
+	
+	
+	
+}

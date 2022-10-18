@@ -1,0 +1,37 @@
+package fo;
+
+public class Main {
+
+	public static void main(String[] args) {
+		int Delegado=0;
+		Colectivo colectivo =new Colectivo(null, false, null, null, null);		
+		Conductor conductor = new Conductor(false);
+		if (condition) {
+			
+		delegado=(Math.random()*40);
+		do {
+			
+			
+			
+			Delegado++;
+		} while (Delegado==60);
+		
+		}
+	}
+
+	
+	public static void subirpasajeros() {
+		switch (key) {
+		case value:
+			
+			break;
+
+		default:
+			break;
+		}
+	}
+	
+	
+	
+	
+}

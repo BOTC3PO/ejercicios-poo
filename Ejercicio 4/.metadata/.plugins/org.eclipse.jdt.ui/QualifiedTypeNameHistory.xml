@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="fo.Motor"/>
+    <fullyQualifiedTypeName name="fo.Colectivo"/>
+    <fullyQualifiedTypeName name="fo.Conductor"/>
+    <fullyQualifiedTypeName name="javax.management.ValueExp"/>
+    <fullyQualifiedTypeName name="java.lang.String"/>
+    <fullyQualifiedTypeName name="fo.Pasajero"/>
+    <fullyQualifiedTypeName name="java.lang.Math"/>
+    <fullyQualifiedTypeName name="javax.swing.JOptionPane"/>
+</qualifiedTypeNameHistroy>

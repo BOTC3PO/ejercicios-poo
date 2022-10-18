@@ -1,0 +1,6 @@
+package fo;
+
+public class Pasajero {
+ private String dni,nombre,sube;
+ 
+}

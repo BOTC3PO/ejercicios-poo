@@ -1,0 +1,14 @@
+package fo;
+
+public class Main {
+
+	public static void main(String[] args) {
+		Colectivo colectivo =new Colectivo(null, false, null, null, null);		
+		Conductor conductor = new Conductor(false);
+		
+		
+		
+		
+	}
+
+}

@@ -1,0 +1,7 @@
+package fo;
+
+public class Motor {
+  private String numero_M ;
+  private boolean estado;
+  
+}

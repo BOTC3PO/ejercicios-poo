@@ -1,0 +1,7 @@
+package fo;
+
+public class Conductor {
+	boolean persona;
+	
+	
+}
