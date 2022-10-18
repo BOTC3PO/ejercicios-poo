@@ -1,7 +1,0 @@
-package fo;
-
-public class Sube {
- private double credito;
- private String Numero;
- 
-}
