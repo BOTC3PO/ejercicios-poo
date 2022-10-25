@@ -155,12 +155,15 @@ public class Main {
 			i++;
 		}
 		sms[i]="ninguno";
-		del= (String) JOptionPane.showInputDialog(null, "borrar libro", "menu", JOptionPane.QUESTION_MESSAGE, null,
+		del= (String) JOptionPane.showInputDialog(null, "modificar producto", "menu", JOptionPane.QUESTION_MESSAGE, null,
 				sms, sms[0]);
 		if (!del.equalsIgnoreCase("ninguno")) {
-			
-		} else {
-			
+			for (Productos productos : productos1) {
+				if(productos.getDom().equals(del)) {
+					String cambio = JOptionPane.showInputDialog("ingrese el nuevo nombre");
+					productos1.set(productos1.indexOf(productos),cambio);
+				}
+			}
 		}
 		
 		menu(productos1);
